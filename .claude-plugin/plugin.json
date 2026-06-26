@@ -1,0 +1,19 @@
+{
+  "name": "hercules",
+  "description": "Hercules makes it easy to build apps and websites by chatting with AI",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hercules",
+    "url": "https://hercules.app"
+  },
+  "homepage": "https://hercules.app",
+  "repository": "https://hercules.app/docs/hercules-mcp",
+  "license": "MIT",
+  "keywords": [
+    "hercules",
+    "mcp",
+    "ai",
+    "app-builder",
+    "no-code"
+  ]
+}
