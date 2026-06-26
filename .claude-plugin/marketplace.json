@@ -1,0 +1,31 @@
+{
+  "name": "hercules",
+  "owner": {
+    "name": "Hercules",
+    "url": "https://hercules.app"
+  },
+  "metadata": {
+    "description": "Build apps and websites by chatting with AI, directly from Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hercules",
+      "source": "./",
+      "description": "Hercules makes it easy to build apps and websites by chatting with AI",
+      "author": {
+        "name": "Hercules",
+        "url": "https://hercules.app"
+      },
+      "homepage": "https://hercules.app",
+      "license": "MIT",
+      "keywords": [
+        "hercules",
+        "mcp",
+        "ai",
+        "app-builder",
+        "no-code"
+      ]
+    }
+  ]
+}

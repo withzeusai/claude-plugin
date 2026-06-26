@@ -8,18 +8,21 @@ This plugin connects Claude Code to the Hercules MCP server so you can build and
 
 ## Installation
 
-In Claude Code, run:
+In Claude Code, add this marketplace, then install the plugin:
 
 ```
-/plugin install hercules
+/plugin marketplace add withzeusai/claude-plugin
+/plugin install hercules@hercules
 ```
 
-Or, to install directly from this repository:
+You can also browse and install interactively:
 
 ```
-/plugin marketplace add <owner>/<repo>
-/plugin install hercules
+/plugin marketplace add withzeusai/claude-plugin
+/plugin
 ```
+
+Then select the **hercules** marketplace and install the **hercules** plugin.
 
 ## Authentication
 
